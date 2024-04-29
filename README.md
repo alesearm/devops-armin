@@ -1,6 +1,8 @@
 # devops-armin
 Armin als Owner, Shami als Collaborator
 
-Ciao Armin, ich hoffe es gehtg dir gut und du bist fleissig am dribbeln 
+Ciao Armin, ich hoffe es gehtg dir gut und du bist fleissig am dribbeln.
+
+Sali Armin
 
 Hoi Shami. Ich starte einen Branch
